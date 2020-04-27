@@ -10,6 +10,10 @@ function ninjaBabySelector(){
   $('#baby-ninja')
 }
 
-function paragraphSelector(){
+function divSelector(){
+  $('.pics')
+}
+
+function firstListItem(){
   $('p')
 }
