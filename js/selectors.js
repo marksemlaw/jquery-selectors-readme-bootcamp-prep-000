@@ -6,6 +6,6 @@ function lastImageSelector(){
   $('img:last')
 }
 
-function paragraphSelector(){
-  $('p')
+function ninjaBabySelector(){
+  $('img:')
 }
