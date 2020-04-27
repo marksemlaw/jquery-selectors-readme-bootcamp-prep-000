@@ -9,3 +9,7 @@ function lastImageSelector(){
 function ninjaBabySelector(){
   $('#baby-ninja')
 }
+
+function paragraphSelector(){
+  $('p')
+}
